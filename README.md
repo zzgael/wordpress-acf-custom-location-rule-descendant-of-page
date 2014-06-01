@@ -2,7 +2,7 @@ Wordpress ACF Custom location rule : Descendant of Page
 =====================================================
 
 ##About
-[ACF](http://www.advancedcustomfields.com/) is a wonderful plugin for Wordpress to get the most of the custom fields.
+[ACF](http://www.advancedcustomfields.com/) is a wonderful plugin for Wordpress to get the most out of the custom fields.
 Basic location rules are not always sufficient to target the right page being edited.
 Basic rule "Parent page" only targets the descending pages of first level, meaning the children's pages will not be targeted.
 
